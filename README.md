@@ -13,8 +13,12 @@ espero sea de tu agrado.
 
 ---
 
-# ¿Que es el covid-19?
-[![Watch the video](https://user-images.githubusercontent.com/93176932/139742261-fbf0b921-0bac-4cf2-be02-ea27235422f8.png)](https://www.youtube.com/watch?v=eCdRxHepJiI)
+## ¿Que es el covid-19?
+[![Alt text](https://img.youtube.com/vi/eCdRxHepJiI/0.jpg)](https://youtu.be/eCdRxHepJiI)
+
+En este video se explica, como se desarrolla este virus
+
+#NOTA: Al momento que se grabó este video el numero de casos era diferente, actualmente han aumentado, para que puedas seguir en tiempo real te dejo el mapa interactivo aquí: https://www.google.com/maps/d/u/0/viewer?mid=1S0vCi3BA-7DOCS13MomK7KebkPsvYl8C&ll=23.752280276218613%2C172.8564041499999&z=2
 
 
 
