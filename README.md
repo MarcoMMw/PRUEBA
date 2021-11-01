@@ -12,7 +12,9 @@ espero sea de tu agrado.
 </p>
 
 ---
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=eCdRxHepJiI)
+
+# ¿Que es el covid-19?
+[![Watch the video](https://user-images.githubusercontent.com/93176932/139742261-fbf0b921-0bac-4cf2-be02-ea27235422f8.png)](https://www.youtube.com/watch?v=eCdRxHepJiI)
 
 
 
