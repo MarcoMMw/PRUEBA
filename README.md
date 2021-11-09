@@ -23,3 +23,13 @@ En este video se explica, como se desarrolla este virus
 
 ![giphy](https://user-images.githubusercontent.com/93176932/139748562-6af7b364-dc17-47c0-b7a2-84c57d0ea8e7.gif)
 ---
+# Hablemos del proyecto...
+En la comunidad UGMEX, la carrera de Ingenieria en sistemas computacionales; que esta conformada por alumnos de primero, quinto y septimo semestre, trabajan en conjunto para lograr este proyecto llamado "CABINA SANITIZANTE", el próposito de este trabajo en equipo es reunir las hábilidades de cada uno para que el proyecto pase de ser una planeación a una realidad y a la vez que este logro, beneficie a cada alumno del plantel.
+
+Iniciamos con la fase 1
+En que consiste?...
+esta consiste en la creación de dos grupos en especifíco: Adiministración de la información y Gestión de la tecnología 
+el grupo de administración de la información; se encarga de recaudar información veridíca y conqureta de la peculiar enfermedad Sars-cov2, así como manuales, pdf´s, etc. mientras que el grupo de gestión de la tecnología se encarga de lo que es: programación, creación de planos 3D
+
+En la fase 1 se tuvieron reuniones para la organización de los equipos, también se habló sobre el tipo de materiales, costos y cotización de cada uno de los materiales a utilizar para el ensamble de esta cabina  
+como parte de este proyecto también tomamos como parte importante la evidencia 
