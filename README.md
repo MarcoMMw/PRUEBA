@@ -1,5 +1,4 @@
-# PRUEBA
-Este repositorio, tiene una simple razón de existir y es para ver su funcionamiento.
+## Cabina sanitizante
 ---
 ## HOLA MUNDO!!! 
 Hola querido usuario :) este reepositorio es creado con el fin de hacer pruebas para el proyecto vertical de la universidad UGMEX,
